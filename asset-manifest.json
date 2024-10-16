@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b062a8b8.css",
+    "main.js": "/static/js/main.872ccdb1.js",
+    "static/js/453.4191240f.chunk.js": "/static/js/453.4191240f.chunk.js",
+    "static/media/infobellLogo.png": "/static/media/infobellLogo.555f0ae5714c231710e8.png",
+    "static/media/text.svg": "/static/media/text.19b3c8bdc34ee3e61af14db0e0268f0d.svg",
+    "static/media/img.svg": "/static/media/img.5e2fad64a1e989b13b6cca05c76fe3f7.svg",
+    "static/media/video1.svg": "/static/media/video1.1a49be0d8e1c620232809eb96ac1546a.svg",
+    "static/media/robot.svg": "/static/media/robot.64b99dde447aa401317b17727a49868e.svg",
+    "static/media/webex-logo.svg": "/static/media/webex-logo.e7975fcfa4e82944f8917eac5df06e64.svg",
+    "static/media/music1.svg": "/static/media/music1.4913bf8a05c83f06d99228b2060e64f0.svg",
+    "static/media/icons8-document.svg": "/static/media/icons8-document.a8b2de800eac284a78861bda7af40641.svg",
+    "static/media/microsoft-teams.svg": "/static/media/microsoft-teams.07073e20f0a2636683125d62a16f2f06.svg",
+    "static/media/zoom-icon.svg": "/static/media/zoom-icon.3763c48b189ffda781599d046f46d8b8.svg",
+    "static/media/youtube.svg": "/static/media/youtube.a41dbdc337af2a0ec5fe3ac03f8defae.svg",
+    "static/media/google-meet-icon.svg": "/static/media/google-meet-icon.a74ad582e0a434c1af413d9491d85524.svg",
+    "index.html": "/index.html",
+    "main.b062a8b8.css.map": "/static/css/main.b062a8b8.css.map",
+    "main.872ccdb1.js.map": "/static/js/main.872ccdb1.js.map",
+    "453.4191240f.chunk.js.map": "/static/js/453.4191240f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b062a8b8.css",
+    "static/js/main.872ccdb1.js"
+  ]
+}
